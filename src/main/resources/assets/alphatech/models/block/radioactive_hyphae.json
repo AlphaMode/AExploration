@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "alphatech:block/radioactive_stem",
+    "side": "alphatech:block/radioactive_stem"
+  }
+}

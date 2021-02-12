@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "hanging=false": {
+      "model": "alphatech:block/yellow_lantern"
+    },
+    "hanging=true": {
+      "model": "alphatech:block/yellow_lantern_hanging"
+    }
+  }
+}

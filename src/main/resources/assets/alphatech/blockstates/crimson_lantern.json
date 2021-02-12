@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "hanging=false": {
+      "model": "alphatech:block/crimson_lantern"
+    },
+    "hanging=true": {
+      "model": "alphatech:block/crimson_lantern_hanging"
+    }
+  }
+}
