@@ -16,5 +16,6 @@ public class AlphaCoreClient implements ClientModInitializer {
         BlockRenderLayerMap.INSTANCE.putBlock(AlphaCore.BLOCKS.YELLOW_LANTERN, RenderLayer.getCutout());
         BlockRenderLayerMap.INSTANCE.putBlock(AlphaCore.BLOCKS.WHITE_LANTERN, RenderLayer.getCutout());
         BlockRenderLayerMap.INSTANCE.putBlock(AlphaCore.BLOCKS.CRIMSON_LANTERN, RenderLayer.getCutout());
+        BlockRenderLayerMap.INSTANCE.putBlock(AlphaCore.BLOCKS.PET_ALTAR_BLOCK, RenderLayer.getCutout());
     }
 }
